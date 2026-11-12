@@ -1,0 +1,23 @@
+[
+  {
+    "card_no": "N001",
+    "password": "123456",
+    "type": "NormalMember",
+    "vip_level": null,
+    "borrowed": []
+  },
+  {
+    "card_no": "V001",
+    "password": "654321",
+    "type": "VipMember",
+    "vip_level": 1,
+    "borrowed": []
+  },
+  {
+    "card_no": "V002",
+    "password": "111111",
+    "type": "VipMember",
+    "vip_level": 2,
+    "borrowed": []
+  }
+]
